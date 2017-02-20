@@ -1,4 +1,4 @@
 # hello-world
 Test repository
 
-Basic Helo World Java Test!
+Basic Hello World Java Test!
